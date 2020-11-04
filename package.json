@@ -22,6 +22,10 @@
     "generate": "stencil generate"
   },
   "dependencies": {
+    "@deck.gl/core": "^8.3.5",
+    "@deck.gl/geo-layers": "^8.3.5",
+    "@deck.gl/layers": "^8.3.5",
+    "@deck.gl/mesh-layers": "^8.3.5",
     "@stencil/core": "^2.0.1"
   },
   "license": "MIT"
